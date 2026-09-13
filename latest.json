@@ -1,8 +1,8 @@
 {
-  "version": "6",
-  "build": 6,
-  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v6.bin",
-  "size": 5881808,
-  "sha256": "3209A0E05627CD371DF04E4F14115671D551B71BF4A7F119800885EA9C051A8A",
-  "notes": "Version 6：重新设计设置、关于、游戏与闹钟界面，优化设置页面层级、WLAN密码输入与页面释放机制，移除人脸识别，并优化相机预览和成像效果。"
+  "version": "7",
+  "build": 7,
+  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v7.bin",
+  "size": 5881744,
+  "sha256": "0AF86586B25A6997BE9A0F2A6D68000901D406078C13DB10F2ED0C862E91D61D",
+  "notes": "Version 7：修复设置、关于、游戏、闹钟等界面中文文字被裁切和显示不全的问题，优化320x240布局；保持纯相机模式，调整GC0308曝光、对比度和锐度参数，改善画面虚化和清晰度。"
 }
