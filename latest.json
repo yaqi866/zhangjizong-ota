@@ -1,8 +1,8 @@
 {
-  "version": "2",
-  "build": 2,
-  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v2.bin",
-  "size": 5840352,
-  "sha256": "A0E741C8C2FE059FA3A7546EFD991216FA5FAF5F7269FE4D694544C72B05CFD3",
-  "notes": "当前为 Version 2 稳定版。"
+  "version": "3",
+  "build": 3,
+  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v3.bin",
+  "size": 5856800,
+  "sha256": "9F22D4465AC27AB2E67B60701E5027797B1ABBCA56622877352A62FEB2996084",
+  "notes": "Version 3：加入正式的系统更新页面与在线检查更新功能。"
 }
