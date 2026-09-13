@@ -1,8 +1,8 @@
 {
-  "version": "4",
-  "build": 4,
-  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v4.bin",
-  "size": 5880928,
-  "sha256": "C9752E2570665B102AC67B6055691ED2399B6A0F1963D72117086B4F344B0C87",
-  "notes": "Version 4：新增闹钟应用，支持新增、编辑、删除、启停、单次/每天/工作日、稍后提醒与掉电保存。"
+  "version": "5",
+  "build": 5,
+  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v5.bin",
+  "size": 5881856,
+  "sha256": "9DF05908DC34DAAF23DBA719EB604A05D7D79BF46AC1668BAE18450F82753FD6",
+  "notes": "Version 5：重构系统界面，新增分层式设置列表，优化关于、游戏与闹钟深色主题，并重做非开机密码场景的大号触控键盘。"
 }
