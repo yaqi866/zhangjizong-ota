@@ -1,0 +1,8 @@
+{
+  "version": "2",
+  "build": 2,
+  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v2.bin",
+  "size": 5840352,
+  "sha256": "A0E741C8C2FE059FA3A7546EFD991216FA5FAF5F7269FE4D694544C72B05CFD3",
+  "notes": "当前为 Version 2 稳定版。"
+}
