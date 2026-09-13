@@ -1,8 +1,8 @@
 {
-  "version": "5",
-  "build": 5,
-  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v5.bin",
-  "size": 5881856,
-  "sha256": "9DF05908DC34DAAF23DBA719EB604A05D7D79BF46AC1668BAE18450F82753FD6",
-  "notes": "Version 5：重构系统界面，新增分层式设置列表，优化关于、游戏与闹钟深色主题，并重做非开机密码场景的大号触控键盘。"
+  "version": "6",
+  "build": 6,
+  "url": "https://raw.githubusercontent.com/yaqi866/zhangjizong-ota/main/zhangjizong_v6.bin",
+  "size": 5881808,
+  "sha256": "3209A0E05627CD371DF04E4F14115671D551B71BF4A7F119800885EA9C051A8A",
+  "notes": "Version 6：重新设计设置、关于、游戏与闹钟界面，优化设置页面层级、WLAN密码输入与页面释放机制，移除人脸识别，并优化相机预览和成像效果。"
 }
